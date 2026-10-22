@@ -1,126 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Nandini%20Garg&fontAlign=50&fontAlignY=40&color=0:0B1026,30:1E3A8A,70:2563EB,100:38BDF8&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=AI%20%7C%20Data%20Science%20%7C%20Computer%20Vision&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,40:2B2A5C,75:1F5F6B,100:3F8F83&text=Nandini%20Garg&fontColor=F1F5F9&fontSize=54&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descColor=C7D2FE&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Nandini Garg"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=1100&height=130&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Computer+Vision+Researcher;Deep+Learning+%7C+Semantic+Segmentation;Building+AI+Solutions+for+Real-World+Problems;Researching+Urban+Visual+Analytics+Using+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8FD3C2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Nandini;Building+AI+for+real-world+problems;Exploring+GenAI%2C+RAG+%26+multi-agent+systems;Turning+research+ideas+into+working+systems" alt="Typing intro"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+<img src="https://hits.sh/github.com/Nandini0202.svg?style=flat-square&label=Profile%20views&color=3F8F83&labelColor=1E293B" alt="Profile views"/>
+<a href="https://github.com/Nandini0202?tab=followers"><img src="https://img.shields.io/github/followers/Nandini0202?style=flat-square&label=Followers&color=6D5BA8&labelColor=1E293B&logo=github&logoColor=white" alt="Followers"/></a>
+<a href="https://www.linkedin.com/in/nandini0202/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-4F7CAC?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B" alt="LinkedIn"/></a>
+<a href="mailto:nandini.23cse@bmu.edu.in"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-B5835A?style=flat-square&logo=gmail&logoColor=white&labelColor=1E293B" alt="Email"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Nandini0202&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Nandini0202?style=for-the-badge&color=2563EB&labelColor=0f172a"/>
-
-<img src="https://img.shields.io/github/stars/Nandini0202?style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/nandini0202/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nandini_Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Nandini0202" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Nandini0202-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/nandini0202/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-nandini0202-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="assets/coder.svg" width="100%" alt="Animated illustration of a girl coding on a laptop"/>
 
 </div>
 
----
+<br>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-```yaml
-Name: Nandini Garg
-
-Role:
-  AI & Data Science Student | ML & Computer Vision Enthusiast
-
-Education:
-  B.Tech CSE (AI & Data Science)
-  BML Munjal University
-
-Location:
-  Gurugram, Haryana
-
-Core Domains:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Semantic Segmentation
-  - Data Analytics
-  - Urban Visual Analytics
-
-Research & Experience:
-  - Computer Vision Research Intern at CADCS Department
-  - Built AI pipelines for Urban Livability Assessment
-  - Worked on Semantic Segmentation across 29 Urban Elements
-  - Applied Deep Learning for Scene Understanding
-  - Developed AI-driven solutions for real-world analysis
-
-Projects:
-  - Traffic Analysis & Congestion Prediction System
-  - Road Infrastructure Monitoring using AI
-  - Urban Visual Disruption Assessment
-  - 3D Reconstruction from Single 2D Images
-
-Technical Stack:
-  - Python
-  - PyTorch
-  - TensorFlow
-  - OpenCV
-  - Scikit-Learn
-  - Pandas
-  - NumPy
-  - Streamlit
-  - Git & GitHub
-
-Areas of Interest:
-  - AI Research
-  - Smart City Analytics
-  - Computer Vision Systems
-  - Data Visualization
-  - Real-World Problem Solving
-
-Currently Exploring:
-  - Vision Transformers
-  - Advanced Deep Learning Architectures
-  - Efficient AI Systems
-  - Scalable ML Pipelines
-<br clear="right"/>
-
-⚡ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,mysql,git,github,vscode,linux&theme=dark" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:2B2A5C,100:1F5F6B&text=%24%20whoami&fontSize=24&fontColor=F1F5F9&fontAlign=50&fontAlignY=52" width="100%" alt="whoami"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/> </div>
+<img src="assets/whoami.svg" width="100%" alt="Animated terminal introducing Nandini"/>
+</div>
 
-📊 GitHub Analytics
-<div align="center"> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Nandini0202&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github"/> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini0202&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandini0202&theme=tokyonight&hide_border=true&border_radius=18"/> </div>
+<br>
 
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nandini0202&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/> </div>
+<details>
+<summary><b>👋 Click to say hi</b></summary>
+<br>
 
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini0202&theme=tokyo-night&hide_border=true&radius=16"/> </div>
+Hey, thanks for stopping by! If something here sparks an idea, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nandini0202/) or by [email](mailto:nandini.23cse@bmu.edu.in).
 
-💻 LeetCode Stats
-<div align="center"> <img src="https://leetcard.jacoblin.cool/nandini0202?theme=dark&font=JetBrains%20Mono&ext=contest"/> </div>
-🚀 Current Focus
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+for+Urban+Analytics;Exploring+Advanced+Computer+Vision;Researching+Semantic+Segmentation;Learning+Scalable+Deep+Learning+Systems" /> </div>
+</details>
 
-✨ Quote I Believe In
+<details>
+<summary><b>🔬 What I'm into</b></summary>
+<br>
+
+- 👁️ **Computer vision:** semantic segmentation and urban scene understanding
+- 🧠 **GenAI:** retrieval-augmented generation (RAG) and multi-agent workflows
+- ⚙️ **Engineering:** Python pipelines, evaluation, and interactive data tools
+
+</details>
+
+<details>
+<summary><b>🏫 Research experience</b></summary>
+<br>
+
+**Computer Vision Research Intern** · CADCS Department, BML Munjal University · *Jun – Sep 2025*
+
+- Worked with 60,000+ Google Street View panoramas across 15 cities
+- Prepared datasets and annotations across 29 semantic classes
+- Built and evaluated a SegFormer + SAM pipeline for urban scene understanding
+
+</details>
+
+<details>
+<summary><b>🌱 What I'm learning right now</b></summary>
+<br>
+
+Better retrieval, agent orchestration, structured reasoning, and systematic evaluation of AI systems.
+
+</details>
+
+<details>
+<summary><b>🎾 Beyond the code</b></summary>
+<br>
+
+Tennis, experimenting with new ideas, and continuous learning.
+
+</details>
+
+<details>
+<summary><b>🎲 Quick fun facts</b></summary>
+<br>
+
+- ☕ Runs on coffee and curiosity
+- 🎾 Tennis is my reset button
+- 🧪 I like testing ideas before trusting them
+
+</details>
+
+<br>
+
 <div align="center">
-"Artificial Intelligence becomes meaningful when it solves real-world challenges."
-</div> <br> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B1026,30:1E3A8A,70:2563EB,100:38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1F5F6B,100:6D5BA8&text=Tech%20Toolkit&fontSize=24&fontColor=F1F5F9&fontAlign=50&fontAlignY=52" width="100%" alt="Tech toolkit"/>
+
+<br><br>
+
+<img src="assets/skills.svg" width="100%" alt="Scrolling list of my skills and tools"/>
+</div>
+
+<details>
+<summary><b>🔗 Click to open docs for each tool</b></summary>
+<br>
+
+<div align="center">
+
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-4F7CAC?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-4F7CAC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/SQL-4F7CAC?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--learn-6D5BA8?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-6D5BA8?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-6D5BA8?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-6D5BA8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+<a href="https://docs.ultralytics.com"><img src="https://img.shields.io/badge/YOLOv8-6D5BA8?style=for-the-badge" alt="YOLOv8"/></a>
+<a href="https://huggingface.co/docs/transformers/model_doc/segformer"><img src="https://img.shields.io/badge/SegFormer-6D5BA8?style=for-the-badge" alt="SegFormer"/></a>
+<a href="https://python.langchain.com/docs/tutorials/rag/"><img src="https://img.shields.io/badge/RAG-B5835A?style=for-the-badge" alt="RAG"/></a>
+<a href="https://github.com/facebookresearch/faiss"><img src="https://img.shields.io/badge/FAISS-B5835A?style=for-the-badge" alt="FAISS"/></a>
+<a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-B5835A?style=for-the-badge" alt="LangGraph"/></a>
+<a href="https://www.sbert.net"><img src="https://img.shields.io/badge/Sentence--Transformers-B5835A?style=for-the-badge" alt="Sentence Transformers"/></a>
+<a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-3F8F83?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+<a href="https://plotly.com/python/"><img src="https://img.shields.io/badge/Plotly-3F8F83?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></a>
+<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-3F8F83?style=for-the-badge" alt="Matplotlib"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-3F8F83?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-3F8F83?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-3F8F83?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+
+</div>
+
+</details>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:6D5BA8,100:B5835A&text=How%20I%20Work&fontSize=24&fontColor=F1F5F9&fontAlign=50&fontAlignY=52" width="100%" alt="How I work"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=D4A373&center=true&vCenter=true&width=700&lines=Research+a+problem+%E2%86%92;Understand+the+data+%E2%86%92;Build+a+baseline+%E2%86%92;Evaluate+failure+cases+%E2%86%92;Improve+%E2%86%BB" alt="Learning loop"/>
+</div>
+
+<br>
+
+<details>
+<summary><b>🔍 See the loop in detail</b></summary>
+<br>
+
+1. **Research** the problem and what already exists
+2. **Understand** the data and its constraints
+3. **Build** a simple baseline first
+4. **Evaluate** results, especially the failures
+5. **Improve**, then repeat
+
+</details>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1F5F6B,100:2B2A5C&text=Let's%20Connect&fontSize=24&fontColor=F1F5F9&fontAlign=50&fontAlignY=52" width="100%" alt="Let's connect"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/nandini0202/"><img src="https://img.shields.io/badge/LinkedIn-Message%20me-4F7CAC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nandini.23cse@bmu.edu.in"><img src="https://img.shields.io/badge/Email-Write%20to%20me-B5835A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3F8F83,50:2B2A5C,100:0F172A&section=footer" width="100%" alt="Footer"/>
+</div>
