@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 150" width="900" height="150">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0F172A"/>
+    <stop offset="0.5" stop-color="#1B2447"/>
+    <stop offset="1" stop-color="#0F172A"/>
+  </linearGradient>
+  <linearGradient id="fl" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0F172A" stop-opacity="1"/>
+    <stop offset="1" stop-color="#0F172A" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fr" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0F172A" stop-opacity="0"/>
+    <stop offset="1" stop-color="#0F172A" stop-opacity="1"/>
+  </linearGradient>
+
+  <g id="r1" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#F1F5F9">
+    <rect x="0"   width="86"  height="36" rx="18" fill="#4F7CAC"/><text x="43"  y="23">Python</text>
+    <rect x="100" width="59"  height="36" rx="18" fill="#4F7CAC"/><text x="129.5" y="23">C++</text>
+    <rect x="173" width="59"  height="36" rx="18" fill="#4F7CAC"/><text x="202.5" y="23">SQL</text>
+    <rect x="246" width="140" height="36" rx="18" fill="#6D5BA8"/><text x="316" y="23">Scikit-learn</text>
+    <rect x="400" width="86"  height="36" rx="18" fill="#6D5BA8"/><text x="443" y="23">Pandas</text>
+    <rect x="500" width="77"  height="36" rx="18" fill="#6D5BA8"/><text x="538.5" y="23">NumPy</text>
+    <rect x="591" width="86"  height="36" rx="18" fill="#6D5BA8"/><text x="634" y="23">OpenCV</text>
+    <rect x="691" width="86"  height="36" rx="18" fill="#6D5BA8"/><text x="734" y="23">YOLOv8</text>
+  </g>
+  <g id="r2" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#F1F5F9">
+    <rect x="0"   width="113" height="36" rx="18" fill="#6D5BA8"/><text x="56.5" y="23">SegFormer</text>
+    <rect x="127" width="59"  height="36" rx="18" fill="#B5835A"/><text x="156.5" y="23">RAG</text>
+    <rect x="200" width="77"  height="36" rx="18" fill="#B5835A"/><text x="238.5" y="23">FAISS</text>
+    <rect x="291" width="113" height="36" rx="18" fill="#B5835A"/><text x="347.5" y="23">LangGraph</text>
+    <rect x="418" width="221" height="36" rx="18" fill="#B5835A"/><text x="528.5" y="23">Sentence-Transformers</text>
+    <rect x="653" width="113" height="36" rx="18" fill="#3F8F83"/><text x="709.5" y="23">Streamlit</text>
+    <rect x="780" width="86"  height="36" rx="18" fill="#3F8F83"/><text x="823" y="23">Plotly</text>
+    <rect x="880" width="86"  height="36" rx="18" fill="#3F8F83"/><text x="923" y="23">Docker</text>
+    <rect x="980" width="59"  height="36" rx="18" fill="#3F8F83"/><text x="1009.5" y="23">Git</text>
+  </g>
+</defs>
+<style>
+  .m1{animation:m1 22s linear infinite}
+  @keyframes m1{from{transform:translateX(0)}to{transform:translateX(-791px)}}
+  .m2{animation:m2 28s linear infinite}
+  @keyframes m2{from{transform:translateX(-1053px)}to{transform:translateX(0)}}
+</style>
+
+<rect width="900" height="150" rx="16" fill="url(#bg)"/>
+
+<g transform="translate(0,24)"><g class="m1">
+  <use xlink:href="#r1" x="0"/><use xlink:href="#r1" x="791"/><use xlink:href="#r1" x="1582"/>
+</g></g>
+
+<g transform="translate(0,84)"><g class="m2">
+  <use xlink:href="#r2" x="0"/><use xlink:href="#r2" x="1053"/>
+</g></g>
+
+<rect width="70" height="150" fill="url(#fl)"/>
+<rect x="830" width="70" height="150" fill="url(#fr)"/>
+</svg>
