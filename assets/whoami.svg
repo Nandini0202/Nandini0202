@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" width="900" height="310">
+<defs>
+  <linearGradient id="win" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0F172A"/>
+    <stop offset="1" stop-color="#1B2447"/>
+  </linearGradient>
+</defs>
+<style>
+  text{font-family:Consolas,Menlo,monospace;font-size:17px}
+  .cv{transform-box:fill-box;transform-origin:right center;animation-duration:15s;animation-iteration-count:infinite;animation-timing-function:steps(22)}
+  .c1{animation-name:k1}.c2{animation-name:k2}.c3{animation-name:k3}.c4{animation-name:k4}
+  @keyframes k1{0%,3%{transform:scaleX(1)}13%,94%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+  @keyframes k2{0%,22%{transform:scaleX(1)}33%,94%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+  @keyframes k3{0%,42%{transform:scaleX(1)}54%,94%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+  @keyframes k4{0%,62%{transform:scaleX(1)}75%,94%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+  .bl{animation:bl 1s steps(1) infinite}
+  @keyframes bl{0%{opacity:1}50%{opacity:0}}
+  .p{fill:#8FD3C2}.cmd{fill:#A5B4FC}.out{fill:#E2E8F0}.dim{fill:#D4A373}
+</style>
+
+<rect width="900" height="310" rx="16" fill="url(#win)" stroke="#3B3A6B" stroke-width="2"/>
+<rect width="900" height="42" rx="16" fill="#1E293B"/>
+<rect y="26" width="900" height="16" fill="#1E293B"/>
+<circle cx="28" cy="21" r="6" fill="#B5835A"/>
+<circle cx="50" cy="21" r="6" fill="#D4A373"/>
+<circle cx="72" cy="21" r="6" fill="#8FD3C2"/>
+<text x="450" y="27" text-anchor="middle" font-size="14" fill="#94A3B8">nandini@portfolio: ~</text>
+
+<!-- line group 1 -->
+<text x="40" y="90"><tspan class="p">$ </tspan><tspan class="cmd">whoami</tspan></text>
+<text x="40" y="114" class="out">Nandini — CS undergrad, AI &amp; Data Science @ BML Munjal University</text>
+<rect class="cv c1" x="30" y="72" width="840" height="48" fill="#111A33"/>
+
+<!-- line group 2 -->
+<text x="40" y="150"><tspan class="p">$ </tspan><tspan class="cmd">cat focus.txt</tspan></text>
+<text x="40" y="174" class="out">Computer Vision · GenAI · RAG · Multi-agent systems</text>
+<rect class="cv c2" x="30" y="132" width="840" height="48" fill="#111A33"/>
+
+<!-- line group 3 -->
+<text x="40" y="210"><tspan class="p">$ </tspan><tspan class="cmd">cat now.txt</tspan></text>
+<text x="40" y="234" class="out">Learning better retrieval, agents and evaluation</text>
+<rect class="cv c3" x="30" y="192" width="840" height="48" fill="#111A33"/>
+
+<!-- line group 4 -->
+<text x="40" y="270"><tspan class="p">$ </tspan><tspan class="cmd">status</tspan></text>
+<text x="40" y="294" class="dim">Curious • Experimental • Always learning<tspan class="bl p"> █</tspan></text>
+<rect class="cv c4" x="30" y="252" width="840" height="48" fill="#111A33"/>
+</svg>
